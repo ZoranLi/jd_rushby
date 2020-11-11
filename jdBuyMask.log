@@ -473,3 +473,470 @@
 2020-11-11 18:24:39,834 INFO: 第2次 
 2020-11-11 18:24:39,880 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[45]ms
 2020-11-11 18:24:39,880 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:53:59,998 INFO: 当前是V3版本
+2020-11-11 18:54:00,278 INFO: 登录成功
+2020-11-11 18:54:00,481 INFO: 登录账号名称jdlzl_bs
+2020-11-11 18:54:00,734 INFO: 清空购物车
+2020-11-11 18:54:01,611 ERROR: 100016129312 添加到购物车失败
+2020-11-11 18:54:01,612 INFO: 第1次 
+2020-11-11 18:54:01,714 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[102]ms
+2020-11-11 18:54:01,819 INFO: 第2次 
+2020-11-11 18:54:01,908 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[58]ms
+2020-11-11 18:54:02,212 INFO: 第3次 
+2020-11-11 18:54:02,260 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[44]ms
+2020-11-11 18:54:02,463 INFO: 第4次 
+2020-11-11 18:54:02,576 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[113]ms
+2020-11-11 18:54:02,877 INFO: 第5次 
+2020-11-11 18:54:02,934 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[56]ms
+2020-11-11 18:54:03,039 INFO: 第6次 
+2020-11-11 18:54:03,289 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[250]ms
+2020-11-11 18:54:03,493 INFO: 第7次 
+2020-11-11 18:54:03,622 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[128]ms
+2020-11-11 18:54:03,823 INFO: 第8次 
+2020-11-11 18:54:03,882 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[58]ms
+2020-11-11 18:54:04,187 INFO: 第9次 
+2020-11-11 18:54:04,285 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[98]ms
+2020-11-11 18:54:04,589 INFO: 第10次 
+2020-11-11 18:54:04,677 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[86]ms
+2020-11-11 18:54:04,880 INFO: 第11次 
+2020-11-11 18:54:04,959 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[78]ms
+2020-11-11 18:54:05,161 INFO: 第12次 
+2020-11-11 18:54:05,344 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[182]ms
+2020-11-11 18:54:05,649 INFO: 第13次 
+2020-11-11 18:54:05,978 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[329]ms
+2020-11-11 18:54:06,079 INFO: 第14次 
+2020-11-11 18:54:06,431 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[352]ms
+2020-11-11 18:54:06,535 INFO: 第15次 
+2020-11-11 18:54:06,623 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[87]ms
+2020-11-11 18:54:06,724 INFO: 第16次 
+2020-11-11 18:54:06,864 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[140]ms
+2020-11-11 18:54:07,167 INFO: 第17次 
+2020-11-11 18:54:07,647 INFO: 检测[0]个口罩有货，[1]个口罩无货，[0]个口罩下柜，耗时[480]ms
+2020-11-11 18:59:13,634 INFO: 当前是V3版本
+2020-11-11 18:59:13,813 INFO: 登录成功
+2020-11-11 18:59:13,881 INFO: 登录账号名称jdlzl_bs
+2020-11-11 18:59:14,070 INFO: 清空购物车
+2020-11-11 18:59:14,245 INFO: 100016135654  已成功加入购物车
+2020-11-11 18:59:14,245 INFO: 第1次 
+2020-11-11 18:59:14,323 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[78]ms
+2020-11-11 18:59:14,324 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:15,324 INFO: 第2次 
+2020-11-11 18:59:15,375 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[49]ms
+2020-11-11 18:59:15,375 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:16,066 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10f2e4450>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:16,066 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:16,103 INFO: 本次提交订单耗时[728]毫秒
+2020-11-11 18:59:16,104 INFO: 订单提交失败, 错误码：0, 返回信息：获取用户订单信息失败(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:16,104 INFO: {'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'overSea': False, 'orderXml': None, 'sign': None, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'addressVO': {'overseas': 0, 'oldAddress': False, 'mapping': False, 'pin': None, 'gcReliability': 0, 'gcReliabilitySource': 0, 'fullAddress': '北京海淀区五环到六环之间永泰西里社区24号楼三单元403', 'freePay': False, 'addressDefault': True, 'selfPickAddressShuntFlag': 0, 'pickVOselected': False, 'branchId': 0, 'tipInfo': None, 'siteProvinceId': 0, 'siteCityId': 0, 'siteCountyId': 0, 'siteTownId': 0, 'skuSupported': False, 'addressSupported': 0, 'consigneeName': None, 'pickVOname': None, 'retTag': 2, 'tagSource': 1, 'userDefinedTag': None, 'newProvinceId': 0, 'newCityId': 0, 'newCountyId': 0, 'newTownId': 0, 'newProvinceName': None, 'newCityName': None, 'newCountyName': None, 'newTownName': None, 'checkLevel': 0, 'optimizePickID': 0, 'pickType': 0, 'dataSign': 0, 'appSelfPickAddress': 0, 'associatePickId': 0, 'associateAddressId': 0, 'appId': None, 'encryptText': None, 'certNum': None, 'addressDefaultCancel': None, 'updateTime': '2020-11-06 22:46:30', 'lastOrderAddress': False, 'sendMq': 0, 'addressMapperInfoVO': None, 'areaName': '北京 海淀区 五环到六环之间 ', 'provinceId': 1, 'cityId': 2800, 'countyId': 2851, 'townId': 0, 'mobile': '15600277368', 'paymentId': 0, 'selected': True, 'addressDetail': '永泰西里社区24号楼三单元403', 'idCard': '', 'phone': '', 'email': '', 'selfPickMobile': None, 'selfPickPhone': None, 'selectedAddressType': 0, 'addressType': 0, 'provinceName': '北京', 'cityName': '海淀区', 'countyName': '五环到六环之间', 'townName': '', 'addressName': '李张辽', 'areaCode': '', 'nameCode': None, 'postCode': '', 'giftSenderConsigneeName': None, 'giftSenderConsigneeMobile': None, 'gcLat': 40.03307, 'gcLng': 116.356438, 'longitude': 116.356438, 'latitude': 40.03307, 'selfPickOptimize': 0, 'consigneeId': 0, 'shipmentType': 0, 'canSelected': False, 'pickId': 0, 'pickName': None, 'mapUrl': None, 'siteType': 0, 'used': False, 'helpMessage': None, 'cabinetAvailable': True, 'limitKeyword': 0, 'specialRemark': None, 'isCod': 0, 'coordType': 2, 'operateTime': None, 'showChangeJingAddressFlag': None, 'recordMark': None, 'address': None, 'name': '李张辽', 'message': None, 'id': 1818421706, 'readOnly': False, 'uuid': None, 'relationMap': None}, 'msgUuid': None, 'international': False, 'message': '获取用户订单信息失败'}
+2020-11-11 18:59:16,602 INFO: 第3次 
+2020-11-11 18:59:16,655 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 18:59:16,656 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:17,358 INFO: 第4次 
+2020-11-11 18:59:17,409 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[51]ms
+2020-11-11 18:59:17,410 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:18,010 INFO: 第5次 
+2020-11-11 18:59:18,063 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 18:59:18,063 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:18,481 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10e11e910>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:18,481 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:18,515 INFO: 本次提交订单耗时[452]毫秒
+2020-11-11 18:59:18,516 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:18,517 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'international': False, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'addressVO': None, 'msgUuid': None, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 18:59:19,151 INFO: 第6次 
+2020-11-11 18:59:19,202 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[51]ms
+2020-11-11 18:59:19,203 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:19,816 INFO: 第7次 
+2020-11-11 18:59:19,871 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[54]ms
+2020-11-11 18:59:19,871 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:20,952 INFO: 第8次 
+2020-11-11 18:59:21,003 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[50]ms
+2020-11-11 18:59:21,004 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:21,588 INFO: 第9次 
+2020-11-11 18:59:21,637 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[49]ms
+2020-11-11 18:59:21,637 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:22,063 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10f32bfd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:22,064 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:22,111 INFO: 本次提交订单耗时[474]毫秒
+2020-11-11 18:59:22,111 INFO: 订单提交失败, 错误码：0, 返回信息：获取用户订单信息失败(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:22,111 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'addressVO': {'overseas': 0, 'pin': None, 'areaName': '北京 海淀区 五环到六环之间 ', 'provinceId': 1, 'cityId': 2800, 'countyId': 2851, 'townId': 0, 'mobile': '15600277368', 'paymentId': 0, 'selected': True, 'addressDetail': '永泰西里社区24号楼三单元403', 'idCard': '', 'phone': '', 'email': '', 'selfPickMobile': None, 'selfPickPhone': None, 'selectedAddressType': 0, 'addressType': 0, 'provinceName': '北京', 'cityName': '海淀区', 'countyName': '五环到六环之间', 'townName': '', 'addressName': '李张辽', 'areaCode': '', 'nameCode': None, 'postCode': '', 'giftSenderConsigneeName': None, 'giftSenderConsigneeMobile': None, 'gcLat': 40.03307, 'gcLng': 116.356438, 'longitude': 116.356438, 'latitude': 40.03307, 'selfPickOptimize': 0, 'consigneeId': 0, 'shipmentType': 0, 'canSelected': False, 'pickId': 0, 'pickName': None, 'mapUrl': None, 'siteType': 0, 'used': False, 'helpMessage': None, 'cabinetAvailable': True, 'limitKeyword': 0, 'specialRemark': None, 'isCod': 0, 'operateTime': None, 'showChangeJingAddressFlag': None, 'recordMark': None, 'coordType': 2, 'lastOrderAddress': False, 'sendMq': 0, 'addressMapperInfoVO': None, 'oldAddress': False, 'mapping': False, 'gcReliability': 0, 'gcReliabilitySource': 0, 'fullAddress': '北京海淀区五环到六环之间永泰西里社区24号楼三单元403', 'freePay': False, 'addressDefault': True, 'selfPickAddressShuntFlag': 0, 'pickVOselected': False, 'branchId': 0, 'tipInfo': None, 'siteProvinceId': 0, 'siteCityId': 0, 'siteCountyId': 0, 'siteTownId': 0, 'skuSupported': False, 'addressSupported': 0, 'consigneeName': None, 'pickVOname': None, 'retTag': 2, 'tagSource': 1, 'userDefinedTag': None, 'newProvinceId': 0, 'newCityId': 0, 'newCountyId': 0, 'newTownId': 0, 'newProvinceName': None, 'newCityName': None, 'newCountyName': None, 'newTownName': None, 'checkLevel': 0, 'optimizePickID': 0, 'pickType': 0, 'dataSign': 0, 'appSelfPickAddress': 0, 'associatePickId': 0, 'associateAddressId': 0, 'appId': None, 'encryptText': None, 'certNum': None, 'addressDefaultCancel': None, 'updateTime': '2020-11-06 22:46:30', 'address': None, 'name': '李张辽', 'message': None, 'id': 1818421706, 'readOnly': False, 'uuid': None, 'relationMap': None}, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'international': False, 'message': '获取用户订单信息失败'}
+2020-11-11 18:59:22,714 INFO: 第10次 
+2020-11-11 18:59:22,765 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[47]ms
+2020-11-11 18:59:22,765 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:23,790 INFO: 第11次 
+2020-11-11 18:59:23,844 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[54]ms
+2020-11-11 18:59:23,844 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:24,183 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10f2b9390>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:24,184 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:24,224 INFO: 本次提交订单耗时[380]毫秒
+2020-11-11 18:59:24,225 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:24,225 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'international': False, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'addressVO': None, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 18:59:24,758 INFO: 第12次 
+2020-11-11 18:59:24,811 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[53]ms
+2020-11-11 18:59:24,811 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:25,688 INFO: 第13次 
+2020-11-11 18:59:25,741 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 18:59:25,742 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:26,053 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10f2dbc90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:26,053 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:26,088 INFO: 本次提交订单耗时[346]毫秒
+2020-11-11 18:59:26,089 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:26,089 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'international': False, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'addressVO': None, 'msgUuid': None, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 18:59:26,642 INFO: 第14次 
+2020-11-11 18:59:26,691 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[49]ms
+2020-11-11 18:59:26,692 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:27,331 INFO: 第15次 
+2020-11-11 18:59:27,388 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[56]ms
+2020-11-11 18:59:27,388 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:28,990 INFO: 第16次 
+2020-11-11 18:59:29,621 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[631]ms
+2020-11-11 18:59:29,621 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:32,322 INFO: 当前是V3版本
+2020-11-11 18:59:32,508 INFO: 登录成功
+2020-11-11 18:59:32,579 INFO: 登录账号名称jdlzl_bs
+2020-11-11 18:59:32,773 INFO: 清空购物车
+2020-11-11 18:59:32,952 INFO: 100016135654  已成功加入购物车
+2020-11-11 18:59:32,952 INFO: 第1次 
+2020-11-11 18:59:33,011 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[59]ms
+2020-11-11 18:59:33,011 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:33,554 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x105944110>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:33,554 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:33,599 INFO: 本次提交订单耗时[588]毫秒
+2020-11-11 18:59:33,599 INFO: 订单提交失败, 错误码：0, 返回信息：获取用户订单信息失败(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:33,600 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'international': False, 'pin': 'lzl1346162166', 'needCheckCode': False, 'success': False, 'overseaMerge': False, 'addressVO': {'overseas': 0, 'oldAddress': False, 'mapping': False, 'pin': None, 'gcReliability': 0, 'gcReliabilitySource': 0, 'fullAddress': '北京海淀区五环到六环之间永泰西里社区24号楼三单元403', 'freePay': False, 'addressDefault': True, 'selfPickAddressShuntFlag': 0, 'pickVOselected': False, 'branchId': 0, 'tipInfo': None, 'siteProvinceId': 0, 'siteCityId': 0, 'siteCountyId': 0, 'siteTownId': 0, 'skuSupported': False, 'addressSupported': 0, 'consigneeName': None, 'pickVOname': None, 'retTag': 2, 'tagSource': 1, 'userDefinedTag': None, 'newProvinceId': 0, 'areaName': '北京 海淀区 五环到六环之间 ', 'provinceId': 1, 'cityId': 2800, 'countyId': 2851, 'townId': 0, 'mobile': '15600277368', 'paymentId': 0, 'selected': True, 'addressDetail': '永泰西里社区24号楼三单元403', 'idCard': '', 'phone': '', 'email': '', 'selfPickMobile': None, 'selfPickPhone': None, 'selectedAddressType': 0, 'addressType': 0, 'provinceName': '北京', 'cityName': '海淀区', 'countyName': '五环到六环之间', 'townName': '', 'addressName': '李张辽', 'areaCode': '', 'nameCode': None, 'postCode': '', 'giftSenderConsigneeName': None, 'giftSenderConsigneeMobile': None, 'gcLat': 40.03307, 'gcLng': 116.356438, 'longitude': 116.356438, 'latitude': 40.03307, 'selfPickOptimize': 0, 'consigneeId': 0, 'shipmentType': 0, 'canSelected': False, 'pickId': 0, 'pickName': None, 'mapUrl': None, 'siteType': 0, 'used': False, 'helpMessage': None, 'cabinetAvailable': True, 'limitKeyword': 0, 'specialRemark': None, 'isCod': 0, 'newCityId': 0, 'newCountyId': 0, 'newTownId': 0, 'newProvinceName': None, 'newCityName': None, 'newCountyName': None, 'newTownName': None, 'checkLevel': 0, 'optimizePickID': 0, 'pickType': 0, 'dataSign': 0, 'appSelfPickAddress': 0, 'associatePickId': 0, 'associateAddressId': 0, 'appId': None, 'encryptText': None, 'certNum': None, 'addressDefaultCancel': None, 'updateTime': '2020-11-06 22:46:30', 'lastOrderAddress': False, 'sendMq': 0, 'addressMapperInfoVO': None, 'operateTime': None, 'showChangeJingAddressFlag': None, 'recordMark': None, 'coordType': 2, 'address': None, 'name': '李张辽', 'message': None, 'id': 1818421706, 'readOnly': False, 'uuid': None, 'relationMap': None}, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'message': '获取用户订单信息失败'}
+2020-11-11 18:59:34,143 INFO: 第2次 
+2020-11-11 18:59:34,200 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[56]ms
+2020-11-11 18:59:34,201 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:34,807 INFO: 第3次 
+2020-11-11 18:59:34,859 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[51]ms
+2020-11-11 18:59:34,859 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:35,624 INFO: 第4次 
+2020-11-11 18:59:35,676 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 18:59:35,676 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:35,968 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10591a3d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:35,969 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:35,996 INFO: 本次提交订单耗时[320]毫秒
+2020-11-11 18:59:35,996 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:35,996 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'international': False, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'addressVO': None, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 18:59:36,507 INFO: 第5次 
+2020-11-11 18:59:36,559 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 18:59:36,559 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:36,820 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1058f2710>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:36,820 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:36,849 INFO: 本次提交订单耗时[290]毫秒
+2020-11-11 18:59:36,849 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:36,849 INFO: {'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'overSea': False, 'orderXml': None, 'sign': None, 'international': False, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'addressVO': None, 'msgUuid': None, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 18:59:37,349 INFO: 第6次 
+2020-11-11 18:59:37,408 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[59]ms
+2020-11-11 18:59:37,408 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:37,682 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x105a42e90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:37,682 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:37,711 INFO: 本次提交订单耗时[303]毫秒
+2020-11-11 18:59:37,711 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:37,711 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'addressVO': None, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'international': False, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 18:59:38,224 INFO: 第7次 
+2020-11-11 18:59:38,276 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[51]ms
+2020-11-11 18:59:38,277 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:39,095 INFO: 第8次 
+2020-11-11 18:59:39,149 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[53]ms
+2020-11-11 18:59:39,150 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:39,475 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1058a3310>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:39,475 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:39,523 INFO: 本次提交订单耗时[373]毫秒
+2020-11-11 18:59:39,523 INFO: 订单提交失败, 错误码：0, 返回信息：获取用户订单信息失败(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:39,524 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'msgMobile': None, 'scaleSkuInfoListVO': None, 'pin': 'lzl1346162166', 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'overseaMerge': False, 'success': False, 'needCheckCode': False, 'resultCode': 0, 'addressVO': {'overseas': 0, 'gcReliability': 0, 'gcReliabilitySource': 0, 'fullAddress': '北京海淀区五环到六环之间永泰西里社区24号楼三单元403', 'freePay': False, 'addressDefault': True, 'selfPickAddressShuntFlag': 0, 'pickVOselected': False, 'branchId': 0, 'tipInfo': None, 'siteProvinceId': 0, 'siteCityId': 0, 'siteCountyId': 0, 'siteTownId': 0, 'consigneeName': None, 'pickVOname': None, 'retTag': 2, 'tagSource': 1, 'userDefinedTag': None, 'newProvinceId': 0, 'newCityId': 0, 'newCountyId': 0, 'newTownId': 0, 'newProvinceName': None, 'newCityName': None, 'newCountyName': None, 'newTownName': None, 'optimizePickID': 0, 'pickType': 0, 'dataSign': 0, 'appSelfPickAddress': 0, 'associatePickId': 0, 'associateAddressId': 0, 'encryptText': None, 'certNum': None, 'addressDefaultCancel': None, 'updateTime': '2020-11-06 22:46:30', 'lastOrderAddress': False, 'sendMq': 0, 'addressMapperInfoVO': None, 'oldAddress': False, 'mapping': False, 'checkLevel': 0, 'appId': None, 'addressType': 0, 'provinceName': '北京', 'cityName': '海淀区', 'countyName': '五环到六环之间', 'townName': '', 'addressName': '李张辽', 'areaCode': '', 'nameCode': None, 'postCode': '', 'giftSenderConsigneeName': None, 'giftSenderConsigneeMobile': None, 'gcLat': 40.03307, 'gcLng': 116.356438, 'longitude': 116.356438, 'latitude': 40.03307, 'pin': None, 'idCard': '', 'phone': '', 'email': '', 'selfPickMobile': None, 'selfPickPhone': None, 'areaName': '北京 海淀区 五环到六环之间 ', 'provinceId': 1, 'cityId': 2800, 'countyId': 2851, 'townId': 0, 'selected': True, 'paymentId': 0, 'selfPickOptimize': 0, 'consigneeId': 0, 'selectedAddressType': 0, 'addressDetail': '永泰西里社区24号楼三单元403', 'mobile': '15600277368', 'shipmentType': 0, 'canSelected': False, 'pickId': 0, 'pickName': None, 'mapUrl': None, 'siteType': 0, 'used': False, 'helpMessage': None, 'cabinetAvailable': True, 'limitKeyword': 0, 'specialRemark': None, 'isCod': 0, 'skuSupported': False, 'addressSupported': 0, 'coordType': 2, 'operateTime': None, 'showChangeJingAddressFlag': None, 'recordMark': None, 'address': None, 'name': '李张辽', 'message': None, 'id': 1818421706, 'readOnly': False, 'uuid': None, 'relationMap': None}, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'orderType': 0, 'msgUuid': None, 'international': False, 'message': '获取用户订单信息失败'}
+2020-11-11 18:59:40,497 INFO: 第9次 
+2020-11-11 18:59:41,551 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[1054]ms
+2020-11-11 18:59:41,555 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:41,867 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1058e0050>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 18:59:41,868 INFO: 第[1/3]次尝试提交订单
+2020-11-11 18:59:41,900 INFO: 本次提交订单耗时[345]毫秒
+2020-11-11 18:59:41,900 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 18:59:41,900 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'msgMobile': None, 'purchaseSkuInfoListVO': None, 'scaleSkuInfoListVO': None, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'pin': 'lzl1346162166', 'noSupportHomeServiceSkuList': None, 'orderType': 0, 'overseaMerge': False, 'success': False, 'needCheckCode': False, 'resultCode': 0, 'addressVO': None, 'msgUuid': None, 'international': False, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 18:59:43,531 INFO: 第10次 
+2020-11-11 18:59:43,581 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[50]ms
+2020-11-11 18:59:43,581 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:44,233 INFO: 第11次 
+2020-11-11 18:59:44,310 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[77]ms
+2020-11-11 18:59:44,310 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:44,943 INFO: 第12次 
+2020-11-11 18:59:49,291 INFO: 当前是V3版本
+2020-11-11 18:59:49,515 INFO: 登录成功
+2020-11-11 18:59:49,582 INFO: 登录账号名称jdlzl_bs
+2020-11-11 18:59:49,775 INFO: 清空购物车
+2020-11-11 18:59:49,967 INFO: 100016135654  已成功加入购物车
+2020-11-11 18:59:49,967 INFO: 第1次 
+2020-11-11 18:59:50,028 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[61]ms
+2020-11-11 18:59:50,028 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:50,873 INFO: 第2次 
+2020-11-11 18:59:50,928 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[55]ms
+2020-11-11 18:59:50,929 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:51,669 INFO: 第3次 
+2020-11-11 18:59:51,746 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[77]ms
+2020-11-11 18:59:51,746 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:52,280 INFO: 第4次 
+2020-11-11 18:59:52,332 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[51]ms
+2020-11-11 18:59:52,332 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:54,289 INFO: 第5次 
+2020-11-11 18:59:54,341 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[51]ms
+2020-11-11 18:59:54,341 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:54,994 INFO: 第6次 
+2020-11-11 18:59:55,056 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[62]ms
+2020-11-11 18:59:55,057 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:55,616 INFO: 第7次 
+2020-11-11 18:59:55,669 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[53]ms
+2020-11-11 18:59:55,670 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:56,388 INFO: 第8次 
+2020-11-11 18:59:56,444 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[54]ms
+2020-11-11 18:59:56,444 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:57,035 INFO: 第9次 
+2020-11-11 18:59:57,091 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[56]ms
+2020-11-11 18:59:57,101 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:57,807 INFO: 第10次 
+2020-11-11 18:59:57,855 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[48]ms
+2020-11-11 18:59:57,856 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:58,414 INFO: 第11次 
+2020-11-11 18:59:58,466 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 18:59:58,466 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:59,020 INFO: 第12次 
+2020-11-11 18:59:59,077 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[57]ms
+2020-11-11 18:59:59,077 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 18:59:59,628 INFO: 第13次 
+2020-11-11 18:59:59,684 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[55]ms
+2020-11-11 18:59:59,684 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:00,407 INFO: 第14次 
+2020-11-11 19:00:00,471 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[63]ms
+2020-11-11 19:00:00,471 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:01,628 INFO: 第15次 
+2020-11-11 19:00:01,680 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[51]ms
+2020-11-11 19:00:01,680 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:02,195 INFO: 第16次 
+2020-11-11 19:00:02,248 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[53]ms
+2020-11-11 19:00:02,248 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:03,070 INFO: 第17次 
+2020-11-11 19:00:03,123 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 19:00:03,124 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:03,858 INFO: 第18次 
+2020-11-11 19:00:03,916 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[57]ms
+2020-11-11 19:00:03,917 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:05,301 INFO: 当前是V3版本
+2020-11-11 19:00:05,488 INFO: 登录成功
+2020-11-11 19:00:05,554 INFO: 登录账号名称jdlzl_bs
+2020-11-11 19:00:05,725 INFO: 清空购物车
+2020-11-11 19:00:05,910 INFO: 100016135654  已成功加入购物车
+2020-11-11 19:00:05,910 INFO: 第1次 
+2020-11-11 19:00:05,961 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[50]ms
+2020-11-11 19:00:05,961 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:06,500 INFO: 第2次 
+2020-11-11 19:00:06,552 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 19:00:06,552 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:07,089 INFO: 第3次 
+2020-11-11 19:00:07,141 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[51]ms
+2020-11-11 19:00:07,142 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:07,778 INFO: 第4次 
+2020-11-11 19:00:07,830 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 19:00:07,831 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:08,428 INFO: 第5次 
+2020-11-11 19:00:08,477 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[48]ms
+2020-11-11 19:00:08,477 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:09,139 INFO: 第6次 
+2020-11-11 19:00:09,192 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 19:00:09,192 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:09,905 INFO: 第7次 
+2020-11-11 19:00:09,962 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[57]ms
+2020-11-11 19:00:09,962 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:10,646 INFO: 第8次 
+2020-11-11 19:00:10,698 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 19:00:10,699 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:11,213 INFO: 第9次 
+2020-11-11 19:00:11,270 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[53]ms
+2020-11-11 19:00:11,271 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:14,054 INFO: 当前是V3版本
+2020-11-11 19:00:14,225 INFO: 登录成功
+2020-11-11 19:00:14,287 INFO: 登录账号名称jdlzl_bs
+2020-11-11 19:00:14,461 INFO: 清空购物车
+2020-11-11 19:00:14,635 INFO: 100016135654  已成功加入购物车
+2020-11-11 19:00:14,636 INFO: 第1次 
+2020-11-11 19:00:14,679 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[43]ms
+2020-11-11 19:00:14,679 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:15,358 INFO: 第2次 
+2020-11-11 19:00:15,411 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[53]ms
+2020-11-11 19:00:15,412 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:16,072 INFO: 第3次 
+2020-11-11 19:00:16,130 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[58]ms
+2020-11-11 19:00:16,131 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:17,089 INFO: 第4次 
+2020-11-11 19:00:17,145 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[56]ms
+2020-11-11 19:00:17,145 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:17,796 INFO: 第5次 
+2020-11-11 19:00:17,841 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[45]ms
+2020-11-11 19:00:17,842 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:18,589 INFO: 第6次 
+2020-11-11 19:00:18,639 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[49]ms
+2020-11-11 19:00:18,639 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:19,234 INFO: 第7次 
+2020-11-11 19:00:19,280 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[46]ms
+2020-11-11 19:00:19,280 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:19,814 INFO: 第8次 
+2020-11-11 19:00:19,877 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[61]ms
+2020-11-11 19:00:19,877 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:39,962 INFO: 当前是V3版本
+2020-11-11 19:00:40,130 INFO: 登录成功
+2020-11-11 19:00:40,187 INFO: 登录账号名称jdlzl_bs
+2020-11-11 19:00:40,366 INFO: 清空购物车
+2020-11-11 19:00:40,544 INFO: 100016135654  已成功加入购物车
+2020-11-11 19:00:40,544 INFO: 第1次 
+2020-11-11 19:00:40,596 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 19:00:40,597 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:41,648 INFO: 第2次 
+2020-11-11 19:00:41,694 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[46]ms
+2020-11-11 19:00:41,694 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:00:42,407 INFO: 第3次 
+2020-11-11 19:01:21,524 INFO: 当前是V3版本
+2020-11-11 19:01:21,719 INFO: 登录成功
+2020-11-11 19:01:21,785 INFO: 登录账号名称jdlzl_bs
+2020-11-11 19:01:21,968 INFO: 清空购物车
+2020-11-11 19:01:22,138 INFO: 100016135654  已成功加入购物车
+2020-11-11 19:01:22,139 INFO: 第1次 
+2020-11-11 19:01:22,207 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[68]ms
+2020-11-11 19:01:22,207 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:01:23,093 INFO: 第2次 
+2020-11-11 19:01:23,148 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[55]ms
+2020-11-11 19:01:23,149 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:01:23,714 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x103540090>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 19:01:23,714 INFO: 第[1/3]次尝试提交订单
+2020-11-11 19:01:23,758 INFO: 本次提交订单耗时[609]毫秒
+2020-11-11 19:01:23,758 INFO: 订单提交失败, 错误码：0, 返回信息：获取用户订单信息失败(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 19:01:23,758 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'addressVO': {'overseas': 0, 'oldAddress': False, 'mapping': False, 'lastOrderAddress': False, 'sendMq': 0, 'addressMapperInfoVO': None, 'gcReliabilitySource': 0, 'fullAddress': '北京海淀区五环到六环之间永泰西里社区24号楼三单元403', 'freePay': False, 'addressDefault': True, 'selfPickAddressShuntFlag': 0, 'pickVOselected': False, 'branchId': 0, 'tipInfo': None, 'siteProvinceId': 0, 'siteCityId': 0, 'siteCountyId': 0, 'siteTownId': 0, 'skuSupported': False, 'addressSupported': 0, 'consigneeName': None, 'pickVOname': None, 'retTag': 2, 'tagSource': 1, 'userDefinedTag': None, 'newProvinceId': 0, 'newCityId': 0, 'newCountyId': 0, 'newTownId': 0, 'newProvinceName': None, 'newCityName': None, 'newCountyName': None, 'newTownName': None, 'checkLevel': 0, 'optimizePickID': 0, 'pickType': 0, 'dataSign': 0, 'appSelfPickAddress': 0, 'associatePickId': 0, 'associateAddressId': 0, 'appId': None, 'encryptText': None, 'certNum': None, 'addressDefaultCancel': None, 'updateTime': '2020-11-06 22:46:30', 'pin': None, 'areaName': '北京 海淀区 五环到六环之间 ', 'provinceId': 1, 'cityId': 2800, 'countyId': 2851, 'townId': 0, 'mobile': '15600277368', 'paymentId': 0, 'selected': True, 'addressDetail': '永泰西里社区24号楼三单元403', 'idCard': '', 'phone': '', 'email': '', 'selfPickMobile': None, 'selfPickPhone': None, 'selectedAddressType': 0, 'addressType': 0, 'provinceName': '北京', 'cityName': '海淀区', 'countyName': '五环到六环之间', 'townName': '', 'addressName': '李张辽', 'areaCode': '', 'nameCode': None, 'postCode': '', 'giftSenderConsigneeName': None, 'giftSenderConsigneeMobile': None, 'gcLat': 40.03307, 'gcLng': 116.356438, 'longitude': 116.356438, 'latitude': 40.03307, 'selfPickOptimize': 0, 'consigneeId': 0, 'gcReliability': 0, 'shipmentType': 0, 'canSelected': False, 'pickId': 0, 'pickName': None, 'mapUrl': None, 'siteType': 0, 'used': False, 'helpMessage': None, 'cabinetAvailable': True, 'limitKeyword': 0, 'specialRemark': None, 'isCod': 0, 'operateTime': None, 'showChangeJingAddressFlag': None, 'recordMark': None, 'coordType': 2, 'address': None, 'name': '李张辽', 'message': None, 'id': 1818421706, 'readOnly': False, 'uuid': None, 'relationMap': None}, 'msgUuid': None, 'international': False, 'message': '获取用户订单信息失败'}
+2020-11-11 19:01:24,348 INFO: 第3次 
+2020-11-11 19:01:24,401 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 19:01:24,401 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 19:01:24,706 ERROR: 订单结算页面获取异常：HTTPSConnectionPool(host='127.0.0.1', port=443): Max retries exceeded with url: /?cdn=nohost (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x103535510>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2020-11-11 19:01:24,706 INFO: 第[1/3]次尝试提交订单
+2020-11-11 19:01:24,732 INFO: 本次提交订单耗时[331]毫秒
+2020-11-11 19:01:24,732 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 19:01:24,732 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'international': False, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'addressVO': None, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 19:01:25,179 INFO: 第4次 
+2020-11-11 19:01:25,238 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[58]ms
+2020-11-11 19:01:25,238 INFO: [100016135654]类型口罩有货啦!马上下单
+2020-11-11 21:59:30,028 INFO: 当前是V3版本
+2020-11-11 21:59:30,229 INFO: 登录成功
+2020-11-11 21:59:30,307 INFO: 登录账号名称jdlzl_bs
+2020-11-11 21:59:30,538 INFO: 清空购物车
+2020-11-11 21:59:30,734 INFO: 100013091578  已成功加入购物车
+2020-11-11 21:59:30,735 INFO: 第1次 
+2020-11-11 21:59:30,788 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[53]ms
+2020-11-11 21:59:39,975 INFO: 当前是V3版本
+2020-11-11 21:59:40,150 INFO: 登录成功
+2020-11-11 21:59:40,212 INFO: 登录账号名称jdlzl_bs
+2020-11-11 21:59:40,420 INFO: 清空购物车
+2020-11-11 21:59:40,603 INFO: 100013091578  已成功加入购物车
+2020-11-11 21:59:40,606 INFO: 第1次 
+2020-11-11 21:59:40,645 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[39]ms
+2020-11-11 21:59:56,580 INFO: 当前是V3版本
+2020-11-11 21:59:57,757 INFO: 登录成功
+2020-11-11 21:59:57,822 INFO: 登录账号名称jdlzl_bs
+2020-11-11 21:59:58,070 INFO: 清空购物车
+2020-11-11 21:59:58,261 INFO: 100013091578  已成功加入购物车
+2020-11-11 21:59:58,261 INFO: 第1次 
+2020-11-11 21:59:58,317 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[55]ms
+2020-11-11 22:00:03,729 INFO: 当前是V3版本
+2020-11-11 22:00:04,281 INFO: 登录成功
+2020-11-11 22:00:04,399 INFO: 登录账号名称jdlzl_bs
+2020-11-11 22:00:05,248 INFO: 清空购物车
+2020-11-11 22:00:05,843 INFO: 100013091578  已成功加入购物车
+2020-11-11 22:00:05,843 INFO: 第1次 
+2020-11-11 22:00:06,097 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[254]ms
+2020-11-11 22:00:16,101 INFO: 第2次 
+2020-11-11 22:00:16,172 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[70]ms
+2020-11-11 22:00:26,712 INFO: 当前是V3版本
+2020-11-11 22:00:26,887 INFO: 登录成功
+2020-11-11 22:00:26,949 INFO: 登录账号名称jdlzl_bs
+2020-11-11 22:00:27,161 INFO: 清空购物车
+2020-11-11 22:00:27,355 INFO: 100013091578  已成功加入购物车
+2020-11-11 22:00:27,356 INFO: 第1次 
+2020-11-11 22:00:27,397 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[41]ms
+2020-11-11 22:00:27,398 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:00:27,939 INFO: 下单信息：{'address': '北京 海淀区 五环到六环之间   永泰西里社区24号楼三单元403', 'receiver': '李张辽 156****7368', 'total_price': '109.42', 'items': []}
+2020-11-11 22:00:27,940 INFO: 第[1/3]次尝试提交订单
+2020-11-11 22:00:28,038 INFO: 本次提交订单耗时[641]毫秒
+2020-11-11 22:00:28,039 INFO: 订单提交失败, 错误码：60123, 返回信息：请输入支付密码(需要在payment_pwd参数配置支付密码)
+2020-11-11 22:00:28,039 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': [], 'sign': None, 'international': False, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'resultCode': 60123, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'addressVO': {'overseas': 0, 'oldAddress': False, 'mapping': False, 'showChangeJingAddressFlag': None, 'recordMark': None, 'pin': None, 'areaName': '北京 海淀区 五环到六环之间 ', 'provinceId': 1, 'cityId': 2800, 'countyId': 2851, 'townId': 0, 'mobile': '15600277368', 'paymentId': 0, 'selected': True, 'addressDetail': '永泰西里社区24号楼三单元403', 'idCard': '', 'phone': '', 'email': '', 'selfPickMobile': None, 'selfPickPhone': None, 'selectedAddressType': 0, 'addressType': 0, 'provinceName': '北京', 'cityName': '海淀区', 'countyName': '五环到六环之间', 'townName': '', 'addressName': '李张辽', 'areaCode': '', 'nameCode': None, 'postCode': '', 'giftSenderConsigneeName': None, 'giftSenderConsigneeMobile': None, 'gcLat': 40.03307, 'gcLng': 116.356438, 'longitude': 116.356438, 'latitude': 40.03307, 'selfPickOptimize': 0, 'consigneeId': 0, 'shipmentType': 0, 'canSelected': False, 'pickId': 0, 'pickName': None, 'mapUrl': None, 'siteType': 0, 'used': False, 'helpMessage': None, 'cabinetAvailable': True, 'limitKeyword': 0, 'specialRemark': None, 'isCod': 0, 'coordType': 2, 'gcReliability': 0, 'gcReliabilitySource': 0, 'fullAddress': '北京海淀区五环到六环之间永泰西里社区24号楼三单元403', 'freePay': False, 'addressDefault': True, 'selfPickAddressShuntFlag': 0, 'pickVOselected': False, 'branchId': 0, 'tipInfo': None, 'siteProvinceId': 0, 'siteCityId': 0, 'siteCountyId': 0, 'siteTownId': 0, 'skuSupported': False, 'addressSupported': 0, 'consigneeName': None, 'pickVOname': None, 'retTag': 2, 'tagSource': 1, 'userDefinedTag': None, 'newProvinceId': 0, 'newCityId': 0, 'newCountyId': 0, 'newTownId': 0, 'newProvinceName': None, 'newCityName': None, 'newCountyName': None, 'newTownName': None, 'checkLevel': 0, 'optimizePickID': 0, 'pickType': 0, 'dataSign': 0, 'appSelfPickAddress': 0, 'associatePickId': 0, 'associateAddressId': 0, 'appId': None, 'encryptText': None, 'certNum': None, 'addressDefaultCancel': None, 'updateTime': '2020-11-06 22:46:30', 'lastOrderAddress': False, 'sendMq': 0, 'addressMapperInfoVO': None, 'operateTime': None, 'address': None, 'name': '李张辽', 'message': None, 'id': 1818421706, 'readOnly': False, 'uuid': None, 'relationMap': None}, 'msgUuid': None, 'message': '请输入支付密码'}
+2020-11-11 22:00:29,523 INFO: 第2次 
+2020-11-11 22:00:29,569 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[45]ms
+2020-11-11 22:00:29,569 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:00:30,033 INFO: 下单信息：{'address': '北京 海淀区 五环到六环之间   永泰西里社区24号楼三单元403', 'receiver': '李张辽 156****7368', 'total_price': '109.42', 'items': []}
+2020-11-11 22:00:30,033 INFO: 第[1/3]次尝试提交订单
+2020-11-11 22:00:30,079 INFO: 本次提交订单耗时[510]毫秒
+2020-11-11 22:00:30,079 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 22:00:30,080 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'pin': 'lzl1346162166', 'needCheckCode': False, 'success': False, 'overseaMerge': False, 'addressVO': None, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'international': False, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 22:00:30,642 INFO: 第3次 
+2020-11-11 22:00:30,686 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[44]ms
+2020-11-11 22:00:30,686 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:00:31,146 INFO: 下单信息：{'address': '北京 海淀区 五环到六环之间   永泰西里社区24号楼三单元403', 'receiver': '李张辽 156****7368', 'total_price': '109.42', 'items': []}
+2020-11-11 22:00:31,147 INFO: 第[1/3]次尝试提交订单
+2020-11-11 22:00:31,186 INFO: 本次提交订单耗时[500]毫秒
+2020-11-11 22:00:31,186 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 22:00:31,187 INFO: {'hasJxj': False, 'addedServiceList': None, 'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'sign': None, 'international': False, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'addressVO': None, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 22:00:31,566 INFO: 第4次 
+2020-11-11 22:00:31,608 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[41]ms
+2020-11-11 22:00:31,608 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:00:32,122 INFO: 下单信息：{'address': '北京 海淀区 五环到六环之间   永泰西里社区24号楼三单元403', 'receiver': '李张辽 156****7368', 'total_price': '109.42', 'items': []}
+2020-11-11 22:00:32,123 INFO: 第[1/3]次尝试提交订单
+2020-11-11 22:00:32,162 INFO: 本次提交订单耗时[554]毫秒
+2020-11-11 22:00:32,162 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 22:00:32,163 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'international': False, 'addressVO': None, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 22:00:32,566 INFO: 第5次 
+2020-11-11 22:00:32,618 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[52]ms
+2020-11-11 22:00:32,618 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:00:33,137 INFO: 下单信息：{'address': '北京 海淀区 五环到六环之间   永泰西里社区24号楼三单元403', 'receiver': '李张辽 156****7368', 'total_price': '109.42', 'items': []}
+2020-11-11 22:00:33,138 INFO: 第[1/3]次尝试提交订单
+2020-11-11 22:00:33,227 INFO: 本次提交订单耗时[609]毫秒
+2020-11-11 22:00:33,227 INFO: 订单提交失败, 错误码：60123, 返回信息：请输入支付密码(需要在payment_pwd参数配置支付密码)
+2020-11-11 22:00:33,227 INFO: {'hasJxj': False, 'addedServiceList': [], 'noStockSkuIds': '', 'reqInfo': None, 'overSea': False, 'orderXml': None, 'cartXml': None, 'sign': None, 'international': False, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'addressVO': {'overseas': 0, 'operateTime': None, 'oldAddress': False, 'mapping': False, 'pin': None, 'gcReliability': 0, 'gcReliabilitySource': 0, 'fullAddress': '北京海淀区五环到六环之间永泰西里社区24号楼三单元403', 'freePay': False, 'addressDefault': True, 'selfPickAddressShuntFlag': 0, 'pickVOselected': False, 'branchId': 0, 'tipInfo': None, 'siteProvinceId': 0, 'siteCityId': 0, 'siteCountyId': 0, 'siteTownId': 0, 'skuSupported': False, 'addressSupported': 0, 'consigneeName': None, 'pickVOname': None, 'retTag': 2, 'tagSource': 1, 'userDefinedTag': None, 'newProvinceId': 0, 'newCityId': 0, 'newCountyId': 0, 'newTownId': 0, 'newProvinceName': None, 'newCityName': None, 'newCountyName': None, 'newTownName': None, 'checkLevel': 0, 'optimizePickID': 0, 'pickType': 0, 'dataSign': 0, 'appSelfPickAddress': 0, 'associatePickId': 0, 'associateAddressId': 0, 'appId': None, 'encryptText': None, 'certNum': None, 'addressDefaultCancel': None, 'updateTime': '2020-11-06 22:46:30', 'lastOrderAddress': False, 'sendMq': 0, 'addressMapperInfoVO': None, 'areaName': '北京 海淀区 五环到六环之间 ', 'provinceId': 1, 'cityId': 2800, 'countyId': 2851, 'townId': 0, 'mobile': '15600277368', 'paymentId': 0, 'selected': True, 'addressDetail': '永泰西里社区24号楼三单元403', 'idCard': '', 'phone': '', 'email': '', 'selfPickMobile': None, 'selfPickPhone': None, 'selectedAddressType': 0, 'addressType': 0, 'provinceName': '北京', 'cityName': '海淀区', 'countyName': '五环到六环之间', 'townName': '', 'addressName': '李张辽', 'areaCode': '', 'nameCode': None, 'postCode': '', 'giftSenderConsigneeName': None, 'giftSenderConsigneeMobile': None, 'gcLat': 40.03307, 'gcLng': 116.356438, 'longitude': 116.356438, 'latitude': 40.03307, 'selfPickOptimize': 0, 'consigneeId': 0, 'shipmentType': 0, 'canSelected': False, 'pickId': 0, 'pickName': None, 'mapUrl': None, 'siteType': 0, 'used': False, 'helpMessage': None, 'cabinetAvailable': True, 'limitKeyword': 0, 'specialRemark': None, 'isCod': 0, 'coordType': 2, 'showChangeJingAddressFlag': None, 'recordMark': None, 'address': None, 'name': '李张辽', 'message': None, 'id': 1818421706, 'readOnly': False, 'uuid': None, 'relationMap': None}, 'resultCode': 60123, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'message': '请输入支付密码'}
+2020-11-11 22:00:34,212 INFO: 第6次 
+2020-11-11 22:00:34,261 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[48]ms
+2020-11-11 22:00:34,262 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:00:34,802 INFO: 下单信息：{'address': '北京 海淀区 五环到六环之间   永泰西里社区24号楼三单元403', 'receiver': '李张辽 156****7368', 'total_price': '109.42', 'items': []}
+2020-11-11 22:00:34,802 INFO: 第[1/3]次尝试提交订单
+2020-11-11 22:00:34,836 INFO: 本次提交订单耗时[574]毫秒
+2020-11-11 22:00:34,837 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 22:00:34,837 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'addressVO': None, 'msgUuid': None, 'international': False, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 22:00:35,352 INFO: 第7次 
+2020-11-11 22:00:35,396 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[44]ms
+2020-11-11 22:00:35,397 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:00:35,903 INFO: 下单信息：{'address': '北京 海淀区 五环到六环之间   永泰西里社区24号楼三单元403', 'receiver': '李张辽 156****7368', 'total_price': '109.42', 'items': []}
+2020-11-11 22:00:35,903 INFO: 第[1/3]次尝试提交订单
+2020-11-11 22:00:35,937 INFO: 本次提交订单耗时[541]毫秒
+2020-11-11 22:00:35,937 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 22:00:35,937 INFO: {'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'sign': None, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'addressVO': None, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'international': False, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 22:00:36,333 INFO: 第8次 
+2020-11-11 22:00:36,388 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[54]ms
+2020-11-11 22:00:36,388 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:00:36,920 INFO: 下单信息：{'address': '北京 海淀区 五环到六环之间   永泰西里社区24号楼三单元403', 'receiver': '李张辽 156****7368', 'total_price': '109.42', 'items': []}
+2020-11-11 22:00:36,920 INFO: 第[1/3]次尝试提交订单
+2020-11-11 22:00:36,953 INFO: 本次提交订单耗时[565]毫秒
+2020-11-11 22:00:36,953 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 22:00:36,953 INFO: {'addedServiceList': None, 'overSea': False, 'orderXml': None, 'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'sign': None, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'addressVO': None, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'international': False, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 22:00:37,566 INFO: 第9次 
+2020-11-11 22:00:37,620 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[54]ms
+2020-11-11 22:00:37,620 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:00:38,115 INFO: 下单信息：{'address': '北京 海淀区 五环到六环之间   永泰西里社区24号楼三单元403', 'receiver': '李张辽 156****7368', 'total_price': '109.42', 'items': []}
+2020-11-11 22:00:38,116 INFO: 第[1/3]次尝试提交订单
+2020-11-11 22:00:38,148 INFO: 本次提交订单耗时[528]毫秒
+2020-11-11 22:00:38,148 INFO: 订单提交失败, 错误码：0, 返回信息：您多次提交过快，请稍后再试(下单商品可能为第三方商品，将切换为普通发票进行尝试)
+2020-11-11 22:00:38,148 INFO: {'cartXml': None, 'noStockSkuIds': '', 'reqInfo': None, 'hasJxj': False, 'addedServiceList': None, 'orderXml': None, 'overSea': False, 'sign': None, 'pin': 'lzl1346162166', 'overseaMerge': False, 'needCheckCode': False, 'success': False, 'addressVO': None, 'resultCode': 0, 'orderId': 0, 'submitSkuNum': 0, 'deductMoneyFlag': 0, 'goJumpOrderCenter': False, 'payInfo': None, 'scaleSkuInfoListVO': None, 'purchaseSkuInfoListVO': None, 'noSupportHomeServiceSkuList': None, 'msgMobile': None, 'orderType': 0, 'msgUuid': None, 'international': False, 'message': '您多次提交过快，请稍后再试'}
+2020-11-11 22:00:38,536 INFO: 第10次 
+2020-11-11 22:00:38,584 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[47]ms
+2020-11-11 22:00:38,585 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:01:01,209 INFO: 当前是V3版本
+2020-11-11 22:01:01,447 INFO: 登录成功
+2020-11-11 22:01:01,526 INFO: 登录账号名称jdlzl_bs
+2020-11-11 22:01:01,782 INFO: 清空购物车
+2020-11-11 22:01:01,990 INFO: 100013091578  已成功加入购物车
+2020-11-11 22:01:01,990 INFO: 第1次 
+2020-11-11 22:01:02,062 INFO: 检测[1]个口罩有货，[0]个口罩无货，[0]个口罩下柜，耗时[72]ms
+2020-11-11 22:01:02,063 INFO: [100013091578]类型口罩有货啦!马上下单
+2020-11-11 22:01:02,623 INFO: 下单信息：{'address': '北京 海淀区 五环到六环之间   永泰西里社区24号楼三单元403', 'receiver': '李张辽 156****7368', 'total_price': '109.42', 'items': []}
+2020-11-11 22:01:02,623 INFO: 第[1/3]次尝试提交订单
+2020-11-11 22:01:02,799 INFO: 本次提交订单耗时[736]毫秒
+2020-11-11 22:01:02,799 INFO: 订单提交成功! 订单号：132639586417
